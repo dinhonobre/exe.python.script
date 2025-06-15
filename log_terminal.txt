@@ -95,6 +95,3 @@ mean    19.785943    2.998279    2.569672
 min      3.070000    1.000000    1.000000
 25%     13.347500    2.000000    2.000000
 75%     24.127500    3.562500    3.000000
-
-Gerando gráfico de boxplot de gorjetas por dia...
-PS C:\Users\Anderson\.vscode\exe.python.script\analise_dados> ^C
