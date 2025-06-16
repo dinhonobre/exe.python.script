@@ -18,4 +18,4 @@ df['valor'] = df['valor'].str.replace(',', '.').astype(float)
 print(df.head())
 
 df.to_csv("dados_selic_tratados.csv", index=False)
-print("Arquivo CSV salvo com sucesso!")
+print("Arquivo dados_selic_tratados.csv salvo com sucesso!")
